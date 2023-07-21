@@ -134,6 +134,7 @@
   border-radius: 0px !important;
 }
 
+
 .ce-chat-title-form .ce-text-input {
   background-color: #191970;
   color: white;
@@ -143,6 +144,11 @@
   background-color: #191970 !important;
   color: white;
 }
+
+/*#ce-add-username-input {
+  background-color:#726dfe ;
+  border-width: 0px;
+}*/
 
 #ce-options-drop-down {
   background-color: #191970 !important;
@@ -155,8 +161,8 @@
 
 .ce-danger-button {
   background-color: #800000 !important;
-  border: 1px solid #9a97fc !important;
-  color: #9a97fc !important;
+  border: 0px solid #9a97fc !important;
+  color: white !important;
 }
 
 .ce-autocomplete-close {
