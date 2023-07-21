@@ -3,3 +3,8 @@
 * {
   font-family: Quicksand !important;
 }
+
+::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
