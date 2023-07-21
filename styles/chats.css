@@ -98,7 +98,8 @@
   position: relative !important;
   top: 4px !important;
   border-width: 0px !important;
-  background-color: #191970 !important;
+  border-radius: 25px;
+  background-color: #726dfe !important;
   color: white !important;
 }
 #msg-textarea::placeholder {
